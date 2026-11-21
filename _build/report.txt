@@ -1,0 +1,42 @@
+PAGINAS GERADAS: 179
+
+LINKS INTERNOS SEM DESTINO (6):
+/embed/
+/estudo-de-arco-eletrico-nbr-17227/embed/
+/funcao-ansi-32/embed/
+/nr10-nossas-solucoes/
+/wp-json/wp/v2/posts
+/wp-json/wp/v2/tags
+
+ARQUIVOS NAO ENCONTRADOS (29):
+/wp-content/uploads/2026/09/2014_09_30_542ab11818595-ptib6mge6b8rnwwu2o2lhobab8rp207ua7y5dsvveg.png  HTTP Error 404: Not Found
+/wp-content/uploads/repositoriolegado/portal/documentos/momento-mensal-seguranca-_-julho22-1.pdf  HTTP Error 404: Not Found
+/wp-content/uploads/2020/09/ELETROALTA-.pdf  HTTP Error 404: Not Found
+/wp-content/uploads/2026/04/Anuario-2026-ebook.pdf  HTTP Error 404: Not Found
+/wp-content/uploads/documentos/fasciculos/Ed74_fasc_arco_eletrico_cap3.pdf  HTTP Error 404: Not Found
+/wp-content/uploads/2018/05/Causas_del_Arco_Electrico.pdf  HTTP Error 404: Not Found
+/wp-content/uploads/foto-hero.jpg  HTTP Error 404: Not Found
+/wp-content/uploads/2023/05/image-2.png  HTTP Error 404: Not Found
+/wp-content/uploads/2024/09/AAAAAAA.jpeg  HTTP Error 404: Not Found
+/wp-content/uploads/2024/09/image.png  HTTP Error 404: Not Found
+/wp-content/uploads/2024/04/download-6.jpeg  HTTP Error 404: Not Found
+/wp-content/uploads/2014/02/ed-96_Pesquisa_Fios-cabos-e-acessorios.pdf  HTTP Error 404: Not Found
+/wp-content/uploads/2021/02/NFPA_logo.svg  HTTP Error 404: Not Found
+/wp-content/uploads/2020/05/GRafico-abracopel-1024x670-1-300x196.png  HTTP Error 404: Not Found
+/wp-content/uploads/2020/02/Anuário_2020-Site.pdf  HTTP Error 404: Not Found
+/wp-content/uploads/2020/05/IMG-20200324-WA0006-768x768-1-300x300.jpg  HTTP Error 404: Not Found
+/wp-content/uploads/2020/03/IMG-20181110-WA0028-1024x768.jpg  HTTP Error 404: Not Found
+/wp-content/uploads/2020/03/infografico-6.jpg  HTTP Error 404: Not Found
+/wp-content/uploads/sites/18/2017/11/TCC_2016_1_MPCampos.pdf  HTTP Error 404: Not Found
+/wp-content/uploads/2023/07/download-1.jpg  HTTP Error 404: Not Found
+/wp-content/uploads/2016/09/Publicly-available-SMETA-Best-Practice-Guidance-4-Pillar-5.0.pdf  HTTP Error 404: Not Found
+/wp-content/uploads/2019/05/SMETA-6.1-Measurement-Criteria.pdf  HTTP Error 404: Not Found
+/wp-content/uploads/2026/11/logo-eletroalta.png  HTTP Error 404: Not Found
+/wp-content/uploads/logo-eletroalta.png  HTTP Error 404: Not Found
+/wp-content/uploads/2014/08/ed-102_Fasciculo_Cap-VII-Inspecao-de-instalacoes-eletricas.pdf  HTTP Error 404: Not Found
+/wp-content/uploads/2026/04/Gemini_Generated_Image_up4sd9up4sd9up4s-800x226.png  HTTP Error 404: Not Found
+/wp-content/uploads/2018/02/Doc-23-1-Cap-1-Riscos-Eletricos.pdf  HTTP Error 404: Not Found
+/wp-content/uploads/2026/07/chemical-manufacturing-1.png  HTTP Error 404: Not Found
+/wp-content/uploads/2014/11/ed-105_Fasciculo_Cap-X-Manutencao-de-transformadores.pdf  HTTP Error 404: Not Found
+
+BAIXADOS DO SITE NO AR: 0
